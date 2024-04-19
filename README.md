@@ -3,7 +3,7 @@
 
 
 .SYNOPSIS
-Reset-WindowsUpdateComponentsAndAutopatchPolicyConflict.ps1 - Resets the Windows Update components
+Reset-WindowsUpdateComponentsAndAutopatchPolicyConflict.ps1 - Resets the Windows Update components and Autopatch registry conflict. 
 
 .DESCRIPTION 
 This script will reset all of the Windows Updates components to Default Settings and helps with AutoPatchConfigurationsIssue
