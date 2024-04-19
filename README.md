@@ -1,7 +1,7 @@
 # Reset-WindowsUpdateComponentsAndAutopatchPolicyConflict.
 
 
-<#
+
 .SYNOPSIS
 Reset-WindowsUpdateComponentsAndAutopatchPolicyConflict.ps1 - Resets the Windows Update components
 
@@ -13,4 +13,4 @@ Results are printed to the console and also Ouput file under C:\WindowsUpdateCom
 
 .NOTES
 Written by: Rudra Prasad Paul
-#>
+
